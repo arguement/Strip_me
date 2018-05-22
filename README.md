@@ -17,6 +17,7 @@ Created by Jordan Williams and Diandra Whittick
          
 
 Rules
+
 Players are evenly distributed cards, usually two players for this game. Only face cards (J,Q,K) and Aces have power.
 
 Aces= 4 cards
