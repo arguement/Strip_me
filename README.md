@@ -5,14 +5,16 @@ Created by Jordan Williams and Diandra Whittick
  
          WELCOME to Strip Me                                  
         
-         Rules of the game: Check the docs                    
+         Rules of the game: Check below                   
                                                              
          Game Play:                                           
          - player 0: the computer                             
          - player 1: you                                      
          - enter: play the top card and place on discard pile 
-         - q: quit i.e. stop playing the game *                
-                                                              
+         - q: quit i.e. stop playing the game *
+         
+         the file to run the game is Strip_me.py
+         
          Enjoy!   
          
 
@@ -34,4 +36,3 @@ If no other power card is played, then person who drops the last power card pick
 Who wins: The person retaining all the cards wins the game.
 
 
-The file to run is the Strip_me.py file 
